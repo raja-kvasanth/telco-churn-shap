@@ -1,0 +1,14 @@
+{
+  "test_auc": 0.8401726967298404,
+  "test_accuracy": 0.7974413646055437,
+  "test_f1": 0.5802650957290133,
+  "best_params": {
+    "subsample": 1.0,
+    "reg_lambda": 5,
+    "reg_alpha": 1,
+    "n_estimators": 100,
+    "max_depth": 3,
+    "learning_rate": 0.1,
+    "colsample_bytree": 0.7
+  }
+}
